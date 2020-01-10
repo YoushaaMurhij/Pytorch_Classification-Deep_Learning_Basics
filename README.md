@@ -1,4 +1,4 @@
-# pytorch-classification
+# Pytorch  Classification
 Classification on CIFAR-10/100 and ImageNet with PyTorch.
 
 ## Features
