@@ -1,4 +1,4 @@
-# Pytorch  Classification
+# Pytorch  Classification -Training and Testing on CIFAR Datasets
 Classification on CIFAR-10/100 and ImageNet with PyTorch.
 
 ## Features
