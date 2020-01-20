@@ -1,8 +1,10 @@
 # Pytorch  Classification -Training and Testing on CIFAR Datasets
 Classification on CIFAR-10/100 and ImageNet with PyTorch.   
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/YoushaaMurhij/Pytorch_Classification-Deep_Learning_Basics/master)
+
 .. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/YoushaaMurhij/Pytorch_Classification-Deep_Learning_Basics/master
+:target: https://mybinder.org/v2/gh/YoushaaMurhij/Pytorch_Classification-Deep_Learning_Basics/master
+
 ## Features
 * Unified interface for different network architectures
 * Multi-GPU support
