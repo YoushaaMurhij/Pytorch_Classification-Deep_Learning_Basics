@@ -1,5 +1,8 @@
 # Pytorch  Classification -Training and Testing on CIFAR Datasets
-Classification on CIFAR-10/100 and ImageNet with PyTorch.
+Classification on CIFAR-10/100 and ImageNet with PyTorch.   
+Fill in the fields to see the markdown badge snippet.
+Fill in the fields to see the rST badge snippet.
+https://mybinder.org/v2/gh/YoushaaMurhij/Pytorch_Classification-Deep_Learning_Basics/7920321a992b04ea68ba090ebbb9ebb2c855f7b4
 
 ## Features
 * Unified interface for different network architectures
