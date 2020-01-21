@@ -71,5 +71,3 @@ Since the size of images in CIFAR dataset is `32x32`, popular network structures
 - [ ] [Wide Residual Networks](http://arxiv.org/abs/1605.07146)
 
 
-## Contribute
-Feel free to create a pull request if you find any bugs or you want to contribute (e.g., more datasets and more network structures).
