@@ -10,7 +10,7 @@ Classification on CIFAR-10/100 and ImageNet with PyTorch.
 
 ## Install
 * Install [PyTorch](http://pytorch.org/)
-* Clone recursively
+* Clone recursively:
   ```
   git clone --recursive https://github.com/YoushaaMurhij/Pytorch_Classification-Deep_Learning_Basics.git
   ```
