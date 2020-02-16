@@ -18,7 +18,7 @@ Classification on CIFAR-10/100 and ImageNet with PyTorch.
 ## Training
 Please see the [Training recipes](TRAINING.md) for how to train the models.
 
-## Results
+## Results:
 
 ### CIFAR
 Top1 error rate on the CIFAR-10/100 benchmarks are reported. You may get different results when training your models with different random seed.
